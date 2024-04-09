@@ -1,1 +1,3 @@
-print('Hello World')
+print('My Name is Bumi')
+
+print('GO GREEN')
